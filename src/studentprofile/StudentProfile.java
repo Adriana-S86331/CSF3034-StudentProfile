@@ -21,6 +21,9 @@ public class StudentProfile { //class named studentProfile
         System.out.println("Name: Nur Adriana Amni Binti Mohd Nazi");
         System.out.println("Student ID: S86331");
         System.out.println("Programme: Bachelor of Computer Science(Software Engineering) with Honours");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
+        
     }
     
 }
